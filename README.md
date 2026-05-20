@@ -267,7 +267,7 @@ print(response.json())
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 The Streamlit dashboard includes 8 interactive pages:
 
@@ -499,18 +499,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 👥 Team Members
-
-This project was developed by:
-
-- **Akash Bhuyan** - Project Lead & ML Engineer
-- **Rushikesh Kedar** - Deep Learning Specialist
-- **Sujal Khandelwal** - Data Scientist & API Developer
-- **Namrata Ingole** - Frontend & Visualization Engineer
-- **Rutuja Shelke** - Research & Documentation Lead
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -548,13 +536,7 @@ For questions, issues, or collaboration opportunities:
 
 ---
 
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐ star on GitHub!
-
----
-
-## 📊 Project Statistics
+## Project Statistics
 
 - **Lines of Code**: 3,000+
 - **Notebooks**: 13
@@ -567,7 +549,7 @@ If you find this project useful, please consider giving it a ⭐ star on GitHub!
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Real-time data integration with WHO/UNICEF APIs
 - [ ] Mobile app for field workers
@@ -580,6 +562,12 @@ If you find this project useful, please consider giving it a ⭐ star on GitHub!
 
 ---
 
-**Made with ❤️ for global food security and nutrition**
+## Team Members
 
-*Last Updated: January 2024*
+This project was developed by:
+
+- **Akash Bhuyan** - Project Lead & ML Engineer
+- **Rushikesh Kedar** - Data Scientist & API Developer
+- **Sujal Khandelwal** - Research & Documentation Lead
+- **Namrata Ingole** - Frontend & Visualization Engineer
+- **Rutuja Shelke** - Deep Learning Specialist
