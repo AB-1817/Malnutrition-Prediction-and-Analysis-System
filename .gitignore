@@ -1,0 +1,194 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+.venv-1/
+.venv-2/
+.venv-3/
+.venv-4/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.claude/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.txt
+
+# Logs
+*.log
+*.out
+*.err
+streamlit.out.log
+streamlit.err.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+postgres_data/
+
+# Model files (large files - use Git LFS or external storage)
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.pb
+
+# Data files (large datasets - use Git LFS or external storage)
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+!FoodSafety_Malnutrition/data/processed/.gitkeep
+!synthetic_malnutrition_data.csv
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+FoodSafety_Malnutrition.zip
+
+# Images (generated outputs)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+!FoodSafety_Malnutrition/assets/favicon.svg
+
+# HTML outputs
+*.html
+!FoodSafety_Malnutrition/frontend/public/*.html
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Docker
+.dockerignore
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Documentation builds
+docs/_build/
+site/
+
+# Monitoring data
+monitoring/predictions.csv
+monitoring/alerts.json
+monitoring/retraining_history.json
+
+# Notebook outputs (optional - uncomment if you want to exclude)
+# FoodSafety_Malnutrition/outputs/plots/*.png
+# FoodSafety_Malnutrition/outputs/heatmaps/*.png
+# FoodSafety_Malnutrition/outputs/reports/*.txt
+
+# Text files (temporary analysis)
+nb3_cells.txt
+nb3_summary.txt
+
+# Analysis images (root level)
+box_plot_comparison.png
+correlation_comparison.png
+distribution_comparison.png
+gan_analysis.png
+gan_complete_analysis.png
+gan_training_history.png
+qq_plots.png
+scatter_matrix.png
+
+# GAN related files
+gan_complete_pipeline.py
+gan_hypertuning.py
+gan_model.py
+gan_performance_analysis.py
+gan_performance_metrics.csv
+gan_quality_summary.csv
+gan_statistical_metrics.csv
+
+# Dashboard variants (keep only main streamlit_app.py)
+FoodSafety_Malnutrition/dashboard.py
+FoodSafety_Malnutrition/dashboard_enhanced.py
+FoodSafety_Malnutrition/dashboard_advanced.py
+dashboard/
+
+# Chatbot standalone (integrated in streamlit_app.py)
+chatbot_app.py
+test_chatbot.py
+
+# Node modules (if frontend is included)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Frontend build
+FoodSafety_Malnutrition/frontend/build/
+FoodSafety_Malnutrition/frontend/dist/
+
+# Misc
+*.bak
+*.orig
+.cache/

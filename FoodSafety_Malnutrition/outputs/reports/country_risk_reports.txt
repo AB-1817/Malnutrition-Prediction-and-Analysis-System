@@ -1,0 +1,125 @@
+
+    ═══════════════════════════════════════════════
+    MALNUTRITION RISK REPORT — INDIA
+    ═══════════════════════════════════════════════
+    Risk Level     : High Risk
+    Confidence     : 100.0%
+
+    Key Indicators:
+      Stunting           : 62.7%
+      Wasting            : 20.3%
+      Underweight        : 55.5%
+      Overweight         : 5.4%
+      Undernourishment   : 14.65%
+
+    Top Drivers of this Prediction:
+      1. underweight
+      2. wasting
+      3. stunting
+
+    Recommendation:
+      Based on High Risk classification, immediate attention
+      is required for underweight and wasting
+      indicators in India.
+    ═══════════════════════════════════════════════
+    
+
+    ═══════════════════════════════════════════════
+    MALNUTRITION RISK REPORT — AFGHANISTAN
+    ═══════════════════════════════════════════════
+    Risk Level     : High Risk
+    Confidence     : 100.0%
+
+    Key Indicators:
+      Stunting           : 53.2%
+      Wasting            : 18.2%
+      Underweight        : 44.9%
+      Overweight         : 6.5%
+      Undernourishment   : 24.0%
+
+    Top Drivers of this Prediction:
+      1. underweight
+      2. wasting
+      3. undernourishment_pct
+
+    Recommendation:
+      Based on High Risk classification, immediate attention
+      is required for underweight and wasting
+      indicators in Afghanistan.
+    ═══════════════════════════════════════════════
+    
+
+    ═══════════════════════════════════════════════
+    MALNUTRITION RISK REPORT — BRAZIL
+    ═══════════════════════════════════════════════
+    Risk Level     : Moderate Risk
+    Confidence     : 99.7%
+
+    Key Indicators:
+      Stunting           : 19.4%
+      Wasting            : 5.9%
+      Underweight        : 5.3%
+      Overweight         : 5.4%
+      Undernourishment   : 7.45%
+
+    Top Drivers of this Prediction:
+      1. underweight
+      2. stunting
+      3. undernourishment_pct
+
+    Recommendation:
+      Based on Moderate Risk classification, immediate attention
+      is required for underweight and stunting
+      indicators in Brazil.
+    ═══════════════════════════════════════════════
+    
+
+    ═══════════════════════════════════════════════
+    MALNUTRITION RISK REPORT — ETHIOPIA
+    ═══════════════════════════════════════════════
+    Risk Level     : High Risk
+    Confidence     : 100.0%
+
+    Key Indicators:
+      Stunting           : 66.9%
+      Wasting            : 9.2%
+      Underweight        : 41.9%
+      Overweight         : 5.4%
+      Undernourishment   : 20.9%
+
+    Top Drivers of this Prediction:
+      1. underweight
+      2. stunting
+      3. undernourishment_pct
+
+    Recommendation:
+      Based on High Risk classification, immediate attention
+      is required for underweight and stunting
+      indicators in Ethiopia.
+    ═══════════════════════════════════════════════
+    
+
+    ═══════════════════════════════════════════════
+    MALNUTRITION RISK REPORT — CHINA
+    ═══════════════════════════════════════════════
+    Risk Level     : Severe Risk
+    Confidence     : 100.0%
+
+    Key Indicators:
+      Stunting           : 38.3%
+      Wasting            : 4.8%
+      Underweight        : 18.7%
+      Overweight         : 5.4%
+      Undernourishment   : 3.4%
+
+    Top Drivers of this Prediction:
+      1. undernourishment_pct
+      2. stunting
+      3. wasting
+
+    Recommendation:
+      Based on Severe Risk classification, immediate attention
+      is required for undernourishment_pct and stunting
+      indicators in China.
+    ═══════════════════════════════════════════════
+    

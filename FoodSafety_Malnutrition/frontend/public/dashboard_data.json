@@ -1,0 +1,215 @@
+{
+  "summaryCards": {
+    "totalDistricts": 403,
+    "avgFSIScore": 35.68,
+    "criticalHighRiskZones": 360,
+    "globalAvgStunting": 29.14,
+    "globalAvgUnderweight": 15.81
+  },
+  "charts": {
+    "riskDistribution": [
+      {
+        "name": "High Risk",
+        "value": 360
+      },
+      {
+        "name": "Medium Risk",
+        "value": 38
+      },
+      {
+        "name": "Low Risk",
+        "value": 3
+      },
+      {
+        "name": "Stable",
+        "value": 1
+      },
+      {
+        "name": "Critical",
+        "value": 1
+      }
+    ],
+    "riskByState": [
+      {
+        "name": "Jharkhand",
+        "FSI_Score": 27.87
+      },
+      {
+        "name": "Chandigarh",
+        "FSI_Score": 28.37
+      },
+      {
+        "name": "Arunachal Pradesh",
+        "FSI_Score": 29.19
+      },
+      {
+        "name": "Punjab",
+        "FSI_Score": 29.44
+      },
+      {
+        "name": "Goa",
+        "FSI_Score": 29.6
+      },
+      {
+        "name": "Mizoram",
+        "FSI_Score": 30.35
+      },
+      {
+        "name": "Tripura",
+        "FSI_Score": 31.01
+      },
+      {
+        "name": "Gujarat",
+        "FSI_Score": 32.52
+      },
+      {
+        "name": "Maharashtra",
+        "FSI_Score": 32.99
+      },
+      {
+        "name": "Haryana",
+        "FSI_Score": 33.4
+      }
+    ],
+    "globalRegionRisk": [
+      {
+        "name": "EAP",
+        "Undernourishment": 10.46
+      },
+      {
+        "name": "ECA",
+        "Undernourishment": 5.22
+      },
+      {
+        "name": "LAC",
+        "Undernourishment": 10.23
+      },
+      {
+        "name": "MENA",
+        "Undernourishment": 8.55
+      },
+      {
+        "name": "SA",
+        "Undernourishment": 13.47
+      },
+      {
+        "name": "SSA",
+        "Undernourishment": 17.16
+      },
+      {
+        "name": "Unknown",
+        "Undernourishment": 10.34
+      }
+    ],
+    "productionByYear": [
+      {
+        "year": "1997",
+        "Kharif": 42000,
+        "Rabi": 38000,
+        "Rainfall": 950
+      },
+      {
+        "year": "1998",
+        "Kharif": 43500,
+        "Rabi": 39000,
+        "Rainfall": 980
+      },
+      {
+        "year": "1999",
+        "Kharif": 41000,
+        "Rabi": 38500,
+        "Rainfall": 890
+      },
+      {
+        "year": "2000",
+        "Kharif": 44000,
+        "Rabi": 40000,
+        "Rainfall": 1050
+      },
+      {
+        "year": "2001",
+        "Kharif": 45000,
+        "Rabi": 41000,
+        "Rainfall": 1100
+      },
+      {
+        "year": "2002",
+        "Kharif": 38000,
+        "Rabi": 36000,
+        "Rainfall": 750
+      },
+      {
+        "year": "2003",
+        "Kharif": 47000,
+        "Rabi": 42000,
+        "Rainfall": 1150
+      },
+      {
+        "year": "2004",
+        "Kharif": 46500,
+        "Rabi": 41500,
+        "Rainfall": 1080
+      },
+      {
+        "year": "2005",
+        "Kharif": 48000,
+        "Rabi": 43000,
+        "Rainfall": 1120
+      },
+      {
+        "year": "2006",
+        "Kharif": 49500,
+        "Rabi": 44000,
+        "Rainfall": 1160
+      },
+      {
+        "year": "2007",
+        "Kharif": 51000,
+        "Rabi": 45500,
+        "Rainfall": 1180
+      },
+      {
+        "year": "2008",
+        "Kharif": 52500,
+        "Rabi": 46000,
+        "Rainfall": 1200
+      },
+      {
+        "year": "2009",
+        "Kharif": 44000,
+        "Rabi": 41000,
+        "Rainfall": 820
+      },
+      {
+        "year": "2010",
+        "Kharif": 54000,
+        "Rabi": 48000,
+        "Rainfall": 1250
+      },
+      {
+        "year": "2011",
+        "Kharif": 56000,
+        "Rabi": 49000,
+        "Rainfall": 1300
+      },
+      {
+        "year": "2012",
+        "Kharif": 55000,
+        "Rabi": 48500,
+        "Rainfall": 1220
+      },
+      {
+        "year": "2013",
+        "Kharif": 58000,
+        "Rabi": 51000,
+        "Rainfall": 1350
+      },
+      {
+        "year": "2014",
+        "Kharif": 59000,
+        "Rabi": 52000,
+        "Rainfall": 1400
+      }
+    ]
+  }
+}
